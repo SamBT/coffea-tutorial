@@ -8,6 +8,8 @@ conda env create -f coffea.yml
 ```
 If this doesn't work, try visiting the [coffea website](https://coffeateam.github.io/coffea/installation.html) for installation instructions.
 
+Please download the root files from [here](https://cornell.box.com/s/tbo7mo6oqgvwv840c53nh6chl5tfdxs4) and put them in the `samples` directory.
+
 # Tutorials
 All the tutorial content is in the Jupyter notebooks. There are also a bunch of good tutorials on the [coffea website](https://coffeateam.github.io/coffea/examples.html) and a no-install-required set of [tutorial notebooks on binder](https://mybinder.org/v2/gh/CoffeaTeam/coffea/master?filepath=binder/).
 
