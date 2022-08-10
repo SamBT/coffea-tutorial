@@ -1,0 +1,14 @@
+name: coffea
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - matplotlib
+  - notebook
+  - jupyterlab
+  - coffea
+  - awkward=1.8.0
+  - uproot=4.2.3
